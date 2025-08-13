@@ -12,4 +12,4 @@ Released via GitHub Pages
 https://kchestnov.github.io/helm-charts
 
 New link
-http://
+http://valid.com
