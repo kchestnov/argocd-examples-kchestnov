@@ -10,3 +10,6 @@ https://github.com/kchestnov/helm-charts
 
 Released via GitHub Pages
 https://kchestnov.github.io/helm-charts
+
+New link
+http://
